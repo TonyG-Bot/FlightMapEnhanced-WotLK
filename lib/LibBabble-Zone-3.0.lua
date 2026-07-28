@@ -1945,7 +1945,7 @@ elseif GAME_LOCALE == "esES" then
 		["Howling Fjord"] = "Fiordo Aquilonal",
 		["Icecrown"] = "Corona de Hielo",
 		["Sholazar Basin"] = "Cuenca de Sholazar",
-		["The Storm Peaks"] = "Cumbres Tormentosas",
+		["The Storm Peaks"] = "Las Cumbres Tormentosas",
 		["Wintergrasp"] = "Conquista del Invierno",
 		--["Zul'Drak"] = true,
 
@@ -2182,7 +2182,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Howling Fjord"] = "Fiordo Aquilonal",
 		["Icecrown"] = "Corona de Hielo",
 		["Sholazar Basin"] = "Cuenca de Sholazar",
-		["The Storm Peaks"] = "Cumbres Tormentosas",
+		["The Storm Peaks"] = "Las Cumbres Tormentosas",
 		["Wintergrasp"] = "Conquista del Invierno",
 		--["Zul'Drak"] = true,
 
