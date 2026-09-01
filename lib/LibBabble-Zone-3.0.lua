@@ -1939,7 +1939,7 @@ elseif GAME_LOCALE == "esES" then
 -- Zones
 		["Borean Tundra"] = "Tundra Boreal",
 		["Crystalsong Forest"] = "Canto de Cristal",
-		--["Dalaran"] = true,
+		["Dalaran"] = "Dalaran",
 		["Dragonblight"] = "Cementerio de Dragones",
 		["Grizzly Hills"] = "Colinas Pardas",
 		["Howling Fjord"] = "Fiordo Aquilonal",
@@ -1947,7 +1947,7 @@ elseif GAME_LOCALE == "esES" then
 		["Sholazar Basin"] = "Cuenca de Sholazar",
 		["The Storm Peaks"] = "Las Cumbres Tormentosas",
 		["Wintergrasp"] = "Conquista del Invierno",
-		--["Zul'Drak"] = true,
+		["Zul'Drak"] = "Zul'Drak",
 
 -- Instances (and subzones used for displaying these instances)
 		["Ahn'kahet: The Old Kingdom"] = "Ahn'kahet: El Antiguo Reino",
@@ -2176,7 +2176,7 @@ elseif GAME_LOCALE == "esMX" then
 -- Zones
 		["Borean Tundra"] = "Tundra Boreal",
 		["Crystalsong Forest"] = "Canto de Cristal",
-		--["Dalaran"] = true,
+		["Dalaran"] = "Dalaran",
 		["Dragonblight"] = "Cementerio de Dragones",
 		["Grizzly Hills"] = "Colinas Pardas",
 		["Howling Fjord"] = "Fiordo Aquilonal",
@@ -2184,7 +2184,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Sholazar Basin"] = "Cuenca de Sholazar",
 		["The Storm Peaks"] = "Las Cumbres Tormentosas",
 		["Wintergrasp"] = "Conquista del Invierno",
-		--["Zul'Drak"] = true,
+		["Zul'Drak"] = "Zul'Drak",
 
 -- Instances (and subzones used for displaying these instances)
 		["Ahn'kahet: The Old Kingdom"] = "Ahn'kahet: El Antiguo Reino",
